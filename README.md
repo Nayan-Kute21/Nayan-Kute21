@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-- 👨‍🎓 I'm a sophomore at the Computer Science Department, IIT Jodhpur.
+- 👨‍🎓I’m a pre-final year student in the Computer Science Department at IIT Jodhpur.
 - ✨ I feel excited working and learning new tech stacks.
 - 👯 On the path of learning and contributing on open source projects.
 - 📫 How to reach me: nayankishorkute21@gmail.com 
